@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 pipeline {
     agent any
   // delete old builds - only keep previous 5
